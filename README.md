@@ -5,13 +5,14 @@
 AI Engineer & AI Master's student (University of Milan). Fine-tuning LLMs, building production-ready AI apps and APIs, and deploying on cloud with Docker/microservices. Experienced across Python/Deep Learning and TypeScript/Node.js stacks. Ex-startup founder with end‑to‑end delivery, MLOps, and data pipelines experience.
 
 ### My favorite tools and technologies
+
 <div align="center">
   <p>
     <img alt="Next.js" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
     <img alt="React" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
     <img alt="TypeScript" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
     <img alt="Node.js" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-    <img alt="NestJS" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg" />
+    <img alt="NestJS" height="40" style="margin:6px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" />
     <img alt="Express" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
     <img alt="Prisma" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" />
     <img alt="PostgreSQL" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
@@ -45,6 +46,7 @@ AI Engineer & AI Master's student (University of Milan). Fine-tuning LLMs, build
     <img alt="Postman" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />
   </p>
 </div>
+
 ### Links
 - LinkedIn: https://www.linkedin.com/in/fethiomur
 - Website: https://fethiomur.github.io/portfolio/
