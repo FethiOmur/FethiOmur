@@ -27,3 +27,9 @@ AI Engineer & AI Master's student (University of Milan). Fine-tuning LLMs, build
 - LinkedIn: https://www.linkedin.com/in/fethiomur
 - Website: https://fethiomur.github.io/portfolio/
 - Email: fethiomur@gmail.com
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="200" alt="Coding Dino" />
+</div>
