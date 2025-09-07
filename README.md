@@ -8,16 +8,16 @@ AI Engineer & AI Master's student (University of Milan). Fine-tuning LLMs, build
 
 <div align="center">
   <p>
-    <img alt="Next.js" height="40" style="margin:6px" src="assets/icons/nextjs.svg" />
+    <img alt="Next.js" height="40" style="margin:6px" src="https://cdn.simpleicons.org/nextdotjs/ffffff" />
     <img alt="React" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
     <img alt="TypeScript" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
     <img alt="Node.js" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-    <img alt="NestJS" height="40" style="margin:6px" src="assets/icons/nestjs.svg" />
-    <img alt="Express" height="40" style="margin:6px" src="assets/icons/express.svg" />
+    <img alt="NestJS" height="40" style="margin:6px" src="https://cdn.simpleicons.org/nestjs/e0234e" />
+    <img alt="Express" height="40" style="margin:6px" src="https://cdn.simpleicons.org/express/ffffff" />
     <img alt="Prisma" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" />
     <img alt="PostgreSQL" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
     <img alt="Supabase" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" />
-    <img alt="Playwright" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" />
+    <img alt="Playwright" height="40" style="margin:6px" src="https://cdn.simpleicons.org/playwright/45ba4b" />
     <img alt="TailwindCSS" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
     <img alt="Docker" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   </p>
