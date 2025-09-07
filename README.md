@@ -17,8 +17,7 @@ AI Engineer & AI Master's student (University of Milan). Fine-tuning LLMs, build
     <img src="https://skillicons.dev/icons?i=mysql,redis,aws,azure,gcp,docker,tailwind,git,github,postman,vscode&perline=11" height="48" alt="Databases & Cloud & DevOps & Tools" />
   </p>
   <p>
-    <img src="https://skillicons.dev/icons?i=figma,linux&perline=11" height="48" alt="Design & OS" />
-    <img alt="Notion" height="48" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" />
+    <img src="https://skillicons.dev/icons?i=figma,linux,notion&perline=11" height="48" alt="Design & OS & Productivity" />
     <img alt="Cursor AI" height="48" style="margin:6px" src="https://img.icons8.com/color/48/cursor-ai.png" />
     <img alt="Claude AI" height="48" style="margin:6px" src="https://cdn.simpleicons.org/anthropic/ffffff" />
   </p>
