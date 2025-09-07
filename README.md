@@ -12,7 +12,7 @@ AI Engineer & AI Master's student (University of Milan). Fine-tuning LLMs, build
     <img alt="React" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
     <img alt="TypeScript" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
     <img alt="Node.js" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-    <img alt="NestJS" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
+    <img alt="NestJS" height="40" style="margin:6px" src="assets/icons/nestjs.svg" />
     <img alt="Express" height="40" style="margin:6px" src="assets/icons/express.svg" />
     <img alt="Prisma" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" />
     <img alt="PostgreSQL" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
