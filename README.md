@@ -6,22 +6,16 @@ AI Engineer & AI Master's student (University of Milan). Fine-tuning LLMs, build
 
 ### My favorite tools and technologies
 
-<!-- Grid (önerilen) -->
 <div align="center">
   <p>
-    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,nestjs,express,prisma,postgres,supabase,playwright,tailwind,docker" height="48" alt="web stack" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,nestjs,express,prisma,postgres,supabase,playwright,tailwind,docker&perline=12" height="48" alt="web stack" />
   </p>
   <p>
-    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,numpy,pandas,jupyter,redis,mongodb,mysql,aws,azure,gcp" height="48" alt="ml+db+cloud" />
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,numpy,pandas,jupyter,redis,mongodb,mysql,aws,azure,gcp&perline=12" height="48" alt="ml+db+cloud" />
   </p>
   <p>
-    <img src="https://skillicons.dev/icons?i=flutter,dart,unity,cs,linux,git,github,postman" height="48" alt="mobile+tools" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,unity,cs,linux,git,github,postman&perline=12" height="48" alt="mobile+tools" />
   </p>
-</div>
-
-<!-- Animasyonlu SVG şerit -->
-<div align="center">
-  <img src="assets/tech-belt.svg" height="64" alt="animated tech belt" />
 </div>
 
 ### Links
@@ -30,5 +24,5 @@ AI Engineer & AI Master's student (University of Milan). Fine-tuning LLMs, build
 - Email: fethiomur@gmail.com
 
 <!--
-**FethiOmur/FethiOmur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Note: GitHub README'lerde inline SVG/JS desteklenmediği için animasyonlu ikon şeritleri güvenilir değildir. Bu yüzden stabil grid görünümü kullanıyoruz.
 -->
