@@ -8,13 +8,13 @@ AI Engineer & AI Master's student (University of Milan). Fine-tuning LLMs, build
 
 <div align="center">
   <p>
-    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,nestjs,express,prisma,postgres,supabase,tailwind,docker&perline=11" height="48" alt="Frontend & Backend" />
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,nodejs,ts,js,html,css,react,nextjs,nestjs&perline=11" height="48" alt="AI & Programming Languages & Web" />
   </p>
   <p>
-    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,redis,mongodb,mysql,aws,azure,gcp,linux,git&perline=11" height="48" alt="AI & Data & Cloud & Tools" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,unity,cs,express,prisma,postgres,supabase,mongodb,mysql,redis&perline=11" height="48" alt="Mobile & Backend & Databases" />
   </p>
   <p>
-    <img src="https://skillicons.dev/icons?i=flutter,dart,unity,cs,github,postman,vscode,figma,html,css,js&perline=11" height="48" alt="Mobile & Tools & Design" />
+    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,tailwind,git,github,postman,vscode,figma,linux&perline=11" height="48" alt="Cloud & DevOps & Tools" />
   </p>
 </div>
 
