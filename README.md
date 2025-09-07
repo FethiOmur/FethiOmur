@@ -8,13 +8,42 @@ AI Engineer & AI Master's student (University of Milan). Fine-tuning LLMs, build
 
 <div align="center">
   <p>
-    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,nestjs,express,prisma,postgres,supabase,playwright,tailwind,docker&perline=12" height="48" alt="web stack" />
+    <img alt="Next.js" height="40" style="margin:6px" src="https://cdn.simpleicons.org/nextdotjs/ffffff" />
+    <img alt="React" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+    <img alt="TypeScript" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+    <img alt="Node.js" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+    <img alt="NestJS" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-plain.svg" />
+    <img alt="Express" height="40" style="margin:6px" src="https://cdn.simpleicons.org/express/ffffff" />
+    <img alt="Prisma" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" />
+    <img alt="PostgreSQL" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+    <img alt="Supabase" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" />
+    <img alt="Playwright" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" />
+    <img alt="TailwindCSS" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+    <img alt="Docker" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
   </p>
   <p>
-    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,numpy,pandas,jupyter,redis,mongodb,mysql,aws,azure,gcp&perline=12" height="48" alt="ml+db+cloud" />
+    <img alt="Python" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+    <img alt="PyTorch" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" />
+    <img alt="TensorFlow" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" />
+    <img alt="NumPy" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />
+    <img alt="Pandas" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
+    <img alt="Jupyter" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" />
+    <img alt="Redis" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" />
+    <img alt="MongoDB" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+    <img alt="MySQL" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+    <img alt="AWS" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain.svg" />
+    <img alt="Azure" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
+    <img alt="GCP" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />
   </p>
   <p>
-    <img src="https://skillicons.dev/icons?i=flutter,dart,unity,cs,linux,git,github,postman&perline=12" height="48" alt="mobile+tools" />
+    <img alt="Flutter" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
+    <img alt="Dart" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
+    <img alt="Unity" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
+    <img alt="C#" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+    <img alt="Linux" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+    <img alt="Git" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+    <img alt="GitHub" height="40" style="margin:6px" src="https://cdn.simpleicons.org/github/ffffff" />
+    <img alt="Postman" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
   </p>
 </div>
 
@@ -22,7 +51,3 @@ AI Engineer & AI Master's student (University of Milan). Fine-tuning LLMs, build
 - LinkedIn: https://www.linkedin.com/in/fethiomur
 - Website: https://fethiomur.github.io/portfolio/
 - Email: fethiomur@gmail.com
-
-<!--
-Note: GitHub README'lerde inline SVG/JS desteklenmediği için animasyonlu ikon şeritleri güvenilir değildir. Bu yüzden stabil grid görünümü kullanıyoruz.
--->
