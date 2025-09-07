@@ -19,11 +19,9 @@ AI Engineer & AI Master's student (University of Milan). Fine-tuning LLMs, build
   </p>
 </div>
 
-<!-- Opsiyonel: kaydırmalı şerit (tek görselle) -->
+<!-- Animasyonlu SVG şerit -->
 <div align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="6">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,nestjs,express,prisma,postgres,supabase,playwright,tailwind,docker,python,pytorch,tensorflow,numpy,pandas,jupyter,redis,mongodb,mysql,aws,azure,gcp,flutter,dart,unity,cs,linux,git,github,postman" height="48" alt="animated tech strip" />
-  </marquee>
+  <img src="assets/tech-belt.svg" height="64" alt="animated tech belt" />
 </div>
 
 ### Links
