@@ -8,12 +8,12 @@ AI Engineer & AI Master's student (University of Milan). Fine-tuning LLMs, build
 
 <div align="center">
   <p>
-    <img alt="Next.js" height="40" style="margin:6px" src="https://cdn.simpleicons.org/nextdotjs/ffffff" />
+    <img alt="Next.js" height="40" style="margin:6px" src="assets/icons/nextjs.svg" />
     <img alt="React" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
     <img alt="TypeScript" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
     <img alt="Node.js" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
     <img alt="NestJS" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-plain.svg" />
-    <img alt="Express" height="40" style="margin:6px" src="https://cdn.simpleicons.org/express/ffffff" />
+    <img alt="Express" height="40" style="margin:6px" src="assets/icons/express.svg" />
     <img alt="Prisma" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" />
     <img alt="PostgreSQL" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
     <img alt="Supabase" height="40" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" />
