@@ -1,0 +1,14 @@
+<svg width="100%" height="64" viewBox="0 0 1200 64" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Animated tech stack belt">
+  <defs>
+    <clipPath id="clip">
+      <rect x="0" y="0" width="1200" height="64" />
+    </clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <g id="belt" transform="translate(0,0)">
+      <image href="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,nestjs,express,prisma,postgres,supabase,playwright,tailwind,docker,python,pytorch,tensorflow,numpy,pandas,jupyter,redis,mongodb,mysql,aws,azure,gcp,flutter,dart,unity,cs,linux,git,github,postman&perline=999" x="0" y="0" height="64" width="1920" />
+      <image href="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,nestjs,express,prisma,postgres,supabase,playwright,tailwind,docker,python,pytorch,tensorflow,numpy,pandas,jupyter,redis,mongodb,mysql,aws,azure,gcp,flutter,dart,unity,cs,linux,git,github,postman&perline=999" x="1920" y="0" height="64" width="1920" />
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-1920 0" dur="20s" repeatCount="indefinite" />
+    </g>
+  </g>
+</svg>
