@@ -11,12 +11,13 @@ AI Engineer & AI Master's student (University of Milan). Fine-tuning LLMs, build
     <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,nodejs,ts,js,html,css,react,nextjs,nestjs&perline=11" height="48" alt="AI & Programming Languages & Web" />
   </p>
   <p>
-    <img src="https://skillicons.dev/icons?i=flutter,dart,unity,cs,express,prisma,postgres,supabase,mongodb,mysql,redis&perline=11" height="48" alt="Mobile & Backend & Databases" />
+    <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,flutter,dart,unity,express,prisma,postgres,supabase,mongodb&perline=11" height="48" alt="System Programming & Mobile & Backend & Databases" />
   </p>
   <p>
-    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,tailwind,git,github,postman,vscode,figma,linux&perline=11" height="48" alt="Cloud & DevOps & Tools" />
+    <img src="https://skillicons.dev/icons?i=mysql,redis,aws,azure,gcp,docker,tailwind,git,github,postman,vscode&perline=11" height="48" alt="Databases & Cloud & DevOps & Tools" />
   </p>
   <p>
+    <img src="https://skillicons.dev/icons?i=figma,linux&perline=11" height="48" alt="Design & OS" />
     <img alt="Notion" height="48" style="margin:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" />
     <img alt="Cursor" height="48" style="margin:6px" src="https://cursor.sh/brand/icon.svg" />
     <img alt="Claude" height="48" style="margin:6px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/anthropic.svg" />
