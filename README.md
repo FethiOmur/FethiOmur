@@ -9,7 +9,6 @@
 <br/>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FethiOmur&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&title_color=F7C52D&icon_color=F7C52D&text_color=ffffff&bg_color=0D1117" alt="GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FethiOmur&layout=compact&langs_count=8&theme=dark&hide_border=true&title_color=F7C52D&text_color=ffffff&bg_color=0D1117" alt="Most Used Languages" />
 </div>
 
