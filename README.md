@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=FethiOmur&color=F7C52D&style=for-the-badge&label=Profile+Views" alt="Profile Views" height="35" />
+  <img src="https://komarev.com/ghpvc/?username=FethiOmur&color=F7C52D&style=for-the-badge&label=Profile+Views" alt="Profile Views" height="50" />
 </div>
 
 <br/>
