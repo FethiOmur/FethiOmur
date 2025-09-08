@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="assets/header-banner.svg" width="100%" alt="Fethi Omur - AI Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hello%2C+I'm+Fethi+Omur+%F0%9F%91%8B;AI+Engineer+%26+Master's+Student;Building+Production-Ready+AI+Systems;Fine-tuning+LLMs+%26+Deep+Learning" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.vercel.app/api?user=FethiOmur&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" alt="GitHub Streak" />
 </div>
 
 ## Hi there 👋
