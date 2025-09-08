@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/api?user=FethiOmur&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FethiOmur&theme=dark&hide_border=true&stroke=0000&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" alt="GitHub Streak" />
 </div>
 
 ## Hi there 👋
