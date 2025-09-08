@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Fethi%20Omur&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=AI%20Engineer&descAlignY=55&descSize=18" width="100%" />
+</div>
+
 ## Hi there 👋
 
 ### Summary
