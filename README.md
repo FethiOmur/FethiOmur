@@ -41,13 +41,6 @@ I solve problems with code, coffee, and a healthy dose of curiosity. From traini
   </p>
 </div>
 
-## Employer?
-
-> <img src="https://raw.githubusercontent.com/FethiOmur/FethiOmur/main/assets/portfolio-icon.svg" width="16" height="16" /> [View my portfolio](https://fethiomur.github.io/portfolio/)  
-> <img src="https://img.icons8.com/fluency/16/000000/linkedin.png" width="16" height="16" /> [Connect on LinkedIn](https://www.linkedin.com/in/fethiomur)  
-> <img src="https://img.icons8.com/fluency/16/000000/gmail.png" width="16" height="16" /> **Email:** fethiomur@gmail.com
-
----
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" alt="Coding Dino" />
