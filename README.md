@@ -45,10 +45,10 @@ AI Engineer & AI Master's student (University of Milan). Fine-tuning LLMs, build
 
 ## Employer?
 
-> <img src="https://cdn.simpleicons.org/exclamation/F7C52D" width="16" height="16" /> **Important**  
+> <img src="https://img.icons8.com/fluency/16/000000/important.png" width="16" height="16" /> **<span style="color:#F7C52D">Important</span>**  
 > <img src="https://raw.githubusercontent.com/FethiOmur/FethiOmur/main/assets/portfolio-icon.svg" width="16" height="16" /> [View my portfolio](https://fethiomur.github.io/portfolio/)  
-> <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="16" height="16" /> [Connect on LinkedIn](https://www.linkedin.com/in/fethiomur)  
-> <img src="https://cdn.simpleicons.org/gmail/EA4335" width="16" height="16" /> **Email:** fethiomur@gmail.com
+> <img src="https://img.icons8.com/fluency/16/000000/linkedin.png" width="16" height="16" /> [Connect on LinkedIn](https://www.linkedin.com/in/fethiomur)  
+> <img src="https://img.icons8.com/fluency/16/000000/gmail.png" width="16" height="16" /> **Email:** fethiomur@gmail.com
 
 ---
 
