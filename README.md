@@ -3,7 +3,20 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FethiOmur&theme=dark&hide_border=true&stroke=0000&background=0D1117&ring=F7C52D&fire=F7C52D&currStreakLabel=F7C52D" alt="GitHub Streak" />
+  <img src="https://komarev.com/ghpvc/?username=FethiOmur&color=F7C52D&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FethiOmur&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&title_color=F7C52D&icon_color=F7C52D&text_color=ffffff&bg_color=0D1117" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FethiOmur&layout=compact&langs_count=8&theme=dark&hide_border=true&title_color=F7C52D&text_color=ffffff&bg_color=0D1117" alt="Most Used Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/FethiOmur/FethiOmur/output/snake.svg" alt="Snake animation" />
 </div>
 
 ## Hi there 👋
