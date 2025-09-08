@@ -35,5 +35,5 @@ AI Engineer & AI Master's student (University of Milan). Fine-tuning LLMs, build
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="200" alt="Coding Dino" />
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" alt="Coding Dino" />
 </div>
