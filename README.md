@@ -18,7 +18,7 @@
   <img src="https://raw.githubusercontent.com/FethiOmur/FethiOmur/output/snake.svg" alt="Snake animation" />
 </div>
 
-## console.log('Hello World👋🏼', 'you can read my summary ↓	');
+## console.log('Het There 👋🏼 ', 'you can read my summary ↓	');
 
 I solve problems with code, coffee, and a healthy dose of curiosity. From training LLMs (RAG and Fine-tune) with PyTorch/TensorFlow to deploying scalable microservices on AWS/Azure, I love turning 'what if' moments into 'it actually works!' celebrations. Currently mastering AI at University of Milan while building production-ready apps with Python/Deep Learning and TypeScript/Node.js stacks. Ex-startup founder and tech enthusiast experienced in MLOps, Docker containerization, and end-to-end delivery pipelines - always ready for the next challenge.
 
