@@ -1,15 +1,15 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=F7C52D&center=true&vCenter=true&width=940&lines=Hello%2C+I'm+Fethi+Omur+%F0%9F%91%8B;AI+Engineer+%26+Tech+Enthusiast;Building+Production-Ready+AI+Systems;Fine-tuning+LLMs+%26+Deep+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=ffffff&center=true&vCenter=true&width=940&lines=Hello%2C+I'm+Fethi+Omur+%F0%9F%91%8B;AI+Engineer+%26+Tech+Enthusiast;Building+Production-Ready+AI+Systems;Fine-tuning+LLMs+%26+Deep+Learning" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=FethiOmur&color=F7C52D&style=for-the-badge&label=Profile+Views" alt="Profile Views" height="50" />
+  <img src="https://komarev.com/ghpvc/?username=FethiOmur&color=ffffff&style=for-the-badge&label=Profile+Views" alt="Profile Views" height="50" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FethiOmur&layout=compact&langs_count=8&theme=dark&hide_border=true&title_color=F7C52D&text_color=ffffff&bg_color=0D1117" alt="Most Used Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FethiOmur&layout=compact&langs_count=8&theme=dark&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0D1117" alt="Most Used Languages" />
 </div>
 
 <br/>
