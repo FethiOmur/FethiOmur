@@ -43,10 +43,12 @@ AI Engineer & AI Master's student (University of Milan). Fine-tuning LLMs, build
   </p>
 </div>
 
-### Links
-- LinkedIn: https://www.linkedin.com/in/fethiomur
-- Website: https://fethiomur.github.io/portfolio/
-- Email: fethiomur@gmail.com
+## Employer?
+
+> 💼 **Important**  
+> 📋 [View my portfolio](https://fethiomur.github.io/portfolio/)  
+> 🔗 [Connect on LinkedIn](https://www.linkedin.com/in/fethiomur)  
+> 📧 **Email:** fethiomur@gmail.com
 
 ---
 
