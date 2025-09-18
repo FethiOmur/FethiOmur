@@ -25,63 +25,20 @@ I solve problems with code, coffee, and a healthy dose of curiosity 🚀. From t
 ### My favorite tools and technologies
 
 <div align="center">
-  
-**AI & Programming Languages**
-<p>
-  <img alt="Python" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img alt="PyTorch" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
-  <img alt="TensorFlow" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
-  <img alt="JavaScript" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img alt="TypeScript" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img alt="Node.js" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img alt="C++" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-  <img alt="C#" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-</p>
-
-**Web & Mobile Technologies**
-<p>
-  <img alt="React" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img alt="Next.js" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-  <img alt="HTML5" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img alt="CSS3" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img alt="Flutter" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-  <img alt="Dart" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
-  <img alt=".NET" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
-  <img alt="Unity" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
-</p>
-
-**Backend & Databases**
-<p>
-  <img alt="Express.js" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-  <img alt="PostgreSQL" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  <img alt="MongoDB" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-  <img alt="MySQL" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img alt="Redis" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
-  <img alt="Supabase" height="48" src="https://cdn.simpleicons.org/supabase/3ECF8E" />
-  <img alt="Prisma" height="48" src="https://cdn.simpleicons.org/prisma/2D3748" />
-</p>
-
-**Cloud & DevOps & Tools**
-<p>
-  <img alt="AWS" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
-  <img alt="Azure" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
-  <img alt="Google Cloud" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
-  <img alt="Docker" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  <img alt="Git" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img alt="GitHub" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  <img alt="VS Code" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img alt="Tailwind CSS" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-</p>
-
-**Design & OS & AI Tools**
-<p>
-  <img alt="Figma" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  <img alt="Linux" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img alt="Notion" height="48" src="https://cdn.simpleicons.org/notion/000000" />
-  <img alt="Cursor AI" height="48" src="https://img.icons8.com/color/48/cursor-ai.png" />
-  <img alt="Claude AI" height="48" src="https://cdn.simpleicons.org/anthropic/ffffff" />
-</p>
-
+  <p>
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,nodejs,ts,js,html,css,react,nextjs,nestjs&perline=11" height="48" alt="AI & Programming Languages & Web" />
+  </p>
+  <p>
+    <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,flutter,dart,unity,express,prisma,postgres,supabase,mongodb&perline=11" height="48" alt="System Programming & Mobile & Backend & Databases" />
+  </p>
+  <p>
+    <img src="https://skillicons.dev/icons?i=mysql,redis,aws,azure,gcp,docker,tailwind,git,github,postman,vscode&perline=11" height="48" alt="Databases & Cloud & DevOps & Tools" />
+  </p>
+  <p>
+    <img src="https://skillicons.dev/icons?i=figma,linux,notion&perline=11" height="48" alt="Design & OS & Productivity" />
+    <img alt="Cursor AI" height="48" style="margin:6px" src="https://img.icons8.com/color/48/cursor-ai.png" />
+    <img alt="Claude AI" height="48" style="margin:6px" src="https://cdn.simpleicons.org/anthropic/ffffff" />
+  </p>
 </div>
 
 ---
