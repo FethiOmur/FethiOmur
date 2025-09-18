@@ -9,7 +9,7 @@
 <br/>
 
 <div align="center">
-  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FethiOmur&layout=compact&langs_count=8&theme=dark&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0D1117&card_width=500" alt="Most Used Languages" />
+  <img height="220em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FethiOmur&layout=compact&langs_count=8&theme=dark&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0D1117&card_width=500" alt="Most Used Languages" />
 </div>
 
 <br/>
@@ -43,19 +43,10 @@ I solve problems with code, coffee, and a healthy dose of curiosity 🚀. From t
 
 ---
 
-### Employer? ⚡
-
-<div align="center">
-  <a href="https://fethiomur.github.io/portfolio/">
-    <img src="https://raw.githubusercontent.com/FethiOmur/FethiOmur/main/assets/portfolio-icon.svg" alt="Portfolio" height="48" style="margin: 0 15px;" />
-  </a>
-  <a href="https://linkedin.com/in/fethiomur">
-    <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" height="48" style="margin: 0 15px;" />
-  </a>
-  <a href="mailto:in/fethiomur">
-    <img src="https://img.icons8.com/fluency/48/gmail.png" alt="Email" height="48" style="margin: 0 15px;" />
-  </a>
-</div>
+## Links
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fethiomur)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://fethiomur.github.io/portfolio/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:in/fethiomur)
 
 ---
 
