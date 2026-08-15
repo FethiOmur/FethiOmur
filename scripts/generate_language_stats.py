@@ -13,6 +13,10 @@ USER = "FethiOmur"
 LIMIT = 8
 OUT = "language-stats.svg"
 
+# Markup/styling drowns out actual programming languages by byte count
+# (the RouteRush landing pages alone contribute >1MB of generated HTML).
+IGNORED_LANGUAGES = {"HTML", "CSS"}
+
 # GitHub linguist colors for languages likely to appear; gray fallback below.
 COLORS = {
     "Python": "#3572A5", "TypeScript": "#3178c6", "JavaScript": "#f1e05a",
@@ -41,6 +45,8 @@ def collect():
         if repo.get("fork"):
             continue
         for lang, size in api(repo["languages_url"]).items():
+            if lang in IGNORED_LANGUAGES:
+                continue
             totals[lang] = totals.get(lang, 0) + size
     ranked = sorted(totals.items(), key=lambda kv: kv[1], reverse=True)[:LIMIT]
     total = sum(size for _, size in ranked) or 1
