@@ -9,12 +9,6 @@
 <br/>
 
 <div align="center">
-  <img height="220em" src="https://raw.githubusercontent.com/FethiOmur/FethiOmur/language-stats/language-stats.svg" alt="Most Used Languages" />
-</div>
-
-<br/>
-
-<div align="center">
   <img src="https://raw.githubusercontent.com/FethiOmur/FethiOmur/output/snake.svg" alt="Snake animation" />
 </div>
 
