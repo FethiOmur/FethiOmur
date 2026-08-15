@@ -9,7 +9,7 @@
 <br/>
 
 <div align="center">
-  <img height="220em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FethiOmur&layout=compact&langs_count=8&theme=dark&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0D1117&card_width=500" alt="Most Used Languages" />
+  <img height="220em" src="https://raw.githubusercontent.com/FethiOmur/FethiOmur/output/language-stats.svg" alt="Most Used Languages" />
 </div>
 
 <br/>
