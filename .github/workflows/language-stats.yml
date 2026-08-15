@@ -18,21 +18,25 @@ jobs:
     permissions:
       contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 5
 
     steps:
-      # Generates a most-used-languages card without any external server —
-      # replaces the dead github-readme-stats Vercel deployments.
+      - uses: actions/checkout@v4
+
+      # Aggregates language bytes across public repos via the REST API and
+      # renders a dark-themed card — no external stats server involved.
       - name: generate language-stats.svg
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          user: FethiOmur
-          filename: language-stats.svg
-          committer_branch: output
-          base: ""
-          plugin_languages: yes
-          plugin_languages_sections: most-used
-          plugin_languages_limit: 8
-          plugin_languages_details: percentage
-          config_timezone: Europe/Rome
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/generate_language_stats.py
+
+      # Dedicated branch so the snake workflow's force-push to `output`
+      # can never wipe this card.
+      - name: push language-stats.svg to the language-stats branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git switch --orphan language-stats
+          git add language-stats.svg
+          git commit -m "Update language-stats.svg"
+          git push --force origin language-stats

@@ -9,7 +9,7 @@
 <br/>
 
 <div align="center">
-  <img height="220em" src="https://raw.githubusercontent.com/FethiOmur/FethiOmur/output/language-stats.svg" alt="Most Used Languages" />
+  <img height="220em" src="https://raw.githubusercontent.com/FethiOmur/FethiOmur/language-stats/language-stats.svg" alt="Most Used Languages" />
 </div>
 
 <br/>
